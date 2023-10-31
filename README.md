@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ktAsefuah
 - 👀 I’m interested in learning new skills  
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me |Twitter @kay_vibez |LinkedIn @Kwesi Asefuah|
 
